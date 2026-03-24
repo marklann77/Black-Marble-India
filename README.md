@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 ![Data](https://img.shields.io/badge/Data-VIIRS%20Black%20Marble-orange)
 
-![India Nighttime Lights Animation](black-marble-india.gif)
+<img src="https://raw.githubusercontent.com/marklann77/Black-Marble-India/main/black-marble-india.gif" alt="India Nighttime Lights Animation" width="100%"> 
 
 ## Overview
 
